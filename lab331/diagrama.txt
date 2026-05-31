@@ -1,0 +1,16 @@
+Figure
+│
+├── Triangle
+│   ├── TriangularPyramid
+│   └── TriangularPrism
+│
+├── Rectangle
+│   ├── QuadrangularPyramid
+│   └── RectangularParallelepiped
+│
+├── Trapeze
+├── Parallelogram
+├── Circle
+│   └── Cone
+│
+└── Ball
